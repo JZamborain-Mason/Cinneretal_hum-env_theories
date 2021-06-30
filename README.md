@@ -1,2 +1,3 @@
 # Cinneretal_hum-env_theories
-Code and data to implement the analyses in "Testing key human-environment theories to inform the sustainability of coral reefs".
+This repository contains the code and data to implement the analyses from the manuscript Cinner et al.  "Testing key human-environment theories to inform the sustainability of coral reefs".
+
